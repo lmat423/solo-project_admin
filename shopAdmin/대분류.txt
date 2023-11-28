@@ -1,0 +1,7 @@
+insert into dae(name,code) values('가전제품','01');
+insert into dae(name,code) values('패션제품','02');
+insert into dae(name,code) values('농수산물','03');
+insert into dae(name,code) values('주방용품','04');
+insert into dae(name,code) values('생활용품','05');
+insert into dae(name,code) values('자동차용품','06');
+insert into dae(name,code) values('스포츠/레저','07');

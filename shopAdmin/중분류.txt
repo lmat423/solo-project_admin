@@ -1,0 +1,9 @@
+ insert into jung(name,code,daecode) values('TV','01','01');
+ insert into jung(name,code,daecode) values('냉장고','02','01');
+ insert into jung(name,code,daecode) values('세탁기','03','01');
+ insert into jung(name,code,daecode) values('컴퓨터','04','01');
+ insert into jung(name,code,daecode) values('청소기','05','01');
+ insert into jung(name,code,daecode) values('남성의류','01','02');
+ insert into jung(name,code,daecode) values('여성의류','02','02');
+ insert into jung(name,code,daecode) values('아동의류','03','02');
+ insert into jung(name,code,daecode) values('잡화','04','02');

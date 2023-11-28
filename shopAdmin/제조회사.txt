@@ -1,0 +1,12 @@
+ insert into comp(name,code) values('삼성전자','01');
+ insert into comp(name,code) values('LG전자','03');
+ insert into comp(name,code) values('위니아','02');
+ insert into comp(name,code) values('다이슨','04');
+ insert into comp(name,code) values('차이슨','05');
+ insert into comp(name,code) values('버버리','06');
+ insert into comp(name,code) values('샤넬','07');
+ insert into comp(name,code) values('파크랜드','08');
+ insert into comp(name,code) values('우리모직','09');
+ insert into comp(name,code) values('논노','10');
+ insert into comp(name,code) values('탑텐','11');
+ insert into comp(name,code) values('샤오미','12');

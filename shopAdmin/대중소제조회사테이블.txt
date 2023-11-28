@@ -1,0 +1,22 @@
+
+ create table dae(
+    -> no int auto_increment primary key,
+    -> name char(10),
+    -> code char(2));
+
+ create table jung(
+    -> no int auto_increment primary key,
+    -> name char(10),
+    -> code char(2),
+    -> daecode char(2));
+
+create table so(
+    -> no int auto_increment primary key,
+    -> name char(10),
+    -> code char(2),
+    -> daejung char(4));
+
+ create table comp(
+    -> no int auto_increment primary key,
+    -> name char(10),
+    -> code char(2));

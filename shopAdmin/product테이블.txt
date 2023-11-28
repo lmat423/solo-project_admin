@@ -1,0 +1,14 @@
+create table product(
+    -> no int auto_increment primary key,
+    -> pcode char(12),
+    -> pimg varchar(100),
+    -> dimg varchar(100),
+    -> title varchar(100),
+    -> price int,
+    -> halin int,
+    -> su int,
+    -> bprice int,
+    -> star double,
+    -> btime int,
+    -> juk int,
+    -> writeday date);
